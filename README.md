@@ -1,3 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow
-I am Vishva Patel
+This repository is for practicing the GitHub Flow.
+I am Vishva Patel.
